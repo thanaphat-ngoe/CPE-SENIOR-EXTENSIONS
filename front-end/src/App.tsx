@@ -1,9 +1,7 @@
-import '../src/App.css'
+import Dashboard from '../src/Dashboard'
 
 function App() {
-	return (
-		<div>Hello, World!</div>
-	)
+	return (<Dashboard />)
 }
 
 export default App
